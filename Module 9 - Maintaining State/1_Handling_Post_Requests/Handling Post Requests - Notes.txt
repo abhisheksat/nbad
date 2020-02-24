@@ -1,0 +1,14 @@
+Handling Post Requests
+
+- POST is a HTTP request method
+- We ask the server to accept / store some data which is enclosed in the body
+  of the request
+- We normally use POST request while submitting forms
+- Does not use url parameters, but has the data to be submitted in request body
+
+- We need body-parser module to handle the incoming request body
+Since we are using it with express, they call it Express route-specific in the following documentation
+for body-parser
+
+https://www.npmjs.com/package/body-parser
+
