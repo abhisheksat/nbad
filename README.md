@@ -1,2 +1,4 @@
 # nbad
-Repository for Network Based Application Development
+Repository for ITIS5166 Network Based Application Development
+
+This covers all the tutorials, modules and exercises
